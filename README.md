@@ -1,0 +1,1 @@
+Human Resources Study around an IT Company to perform Data visualization techniques, Exploratory Data Analysis & Machine Learning models to predict Employee Termination.
