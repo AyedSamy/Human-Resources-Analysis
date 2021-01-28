@@ -1,4 +1,5 @@
 # Human Resources Study
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.7](https://img.shields.io/badge/Python-3.7-blueviolet.svg) ![Seaborn](https://img.shields.io/badge/Library-Seaborn-success.svg) ![Scikit-learn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
 This study is around an IT Company to perform Data visualization techniques, Exploratory Data Analysis & Machine Learning models to predict Employee Termination.
 
